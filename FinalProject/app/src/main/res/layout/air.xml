@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sand">
+
+    <EditText
+        android:id="@+id/editLon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:hint="지역 입력"
+        android:textColor="@color/black" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/airView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="내용"
+            android:textColor="@color/black"
+            android:textSize="20dp" />
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button"
+        android:onClick="btnClick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="대기 확인하기"
+        android:textColor="@color/white"
+        android:backgroundTint="#555500"
+        android:textSize="18dp"/>
+
+</LinearLayout>

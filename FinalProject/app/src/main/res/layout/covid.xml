@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/covid2">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/covidView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="확진자 수"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:gravity="center"/>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnClick"
+        android:text="금일 확진자 확인"
+        android:backgroundTint="#000FFF"
+        android:textColor="@color/white"/>
+
+</LinearLayout>
