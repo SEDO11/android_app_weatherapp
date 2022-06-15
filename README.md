@@ -7,13 +7,13 @@
 
 <h2>이 앱을 만들면서 활용한 api</h2>
 <h3>openWeatherAPI</h3>
-<A href="https://openweathermap.org/"> 현재 날씨 (JSON) </A>
+<A href="https://openweathermap.org/" target="_blank"> 현재 날씨 (JSON) </A>
 <br>
 
 <h3>(한국 국가기관)공공데이터</h3>
-<A href="https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15016368"> 황사 정보 (XML) </A> 
+<A href="https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15016368" target="_blank"> 황사 정보 (XML) </A> 
 <br>
-<A href="https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15059468"> 중기 예보 (XML) </A> 
+<A href="https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15059468" target="_blank"> 중기 예보 (XML) </A> 
 <br>
-<A href="https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15043378"> 코로나 확진자 (XML) </A> 
+<A href="https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15043378" target="_blank"> 코로나 확진자 (XML) </A> 
 <br>
