@@ -13,9 +13,7 @@
 <h3>(한국 국가기관)공공데이터</h3>
 <A href="https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15016368"> 황사 정보 (XML) </A> 
 <br>
-
 <A href="https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15059468"> 중기 예보 (XML) </A> 
 <br>
-
 <A href="https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15043378"> 코로나 확진자 (XML) </A> 
 <br>
